@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Isaac Silva",
+    "telefono": "0991234567",
+    "email": "isaac@gmail.com"
+  },
+  {
+    "nombre": "Maria Alvarez",
+    "telefono": "0987654321",
+    "email": "maria@gmail.com"
+  },
+  {
+    "nombre": "Carlos Perez",
+    "telefono": "0976543210",
+    "email": "carlos@gmail.com"
+  }
+]
