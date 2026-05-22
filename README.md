@@ -10,6 +10,8 @@ bordes, colores y validación de entradas.
 
 ## LINK DE IA USADA 
 -- https://claude.ai/share/9a92b723-2602-430f-aeb0-4312398ef6f4
+## LINK DE GITHUB
+-- https://github.com/Isaac26-sq/Taller---Bloques-0---18-/blob/main/README.md 
 ## Tabla de contenido
 
 - [Características](#características)
