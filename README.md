@@ -158,23 +158,6 @@ El controlador localiza cada ejercicio **por convención de nombres**: para el b
 
 ---
 
-## Documentación del uso de IA
-
-Según las indicaciones de la guía, esta sección documenta el uso de herramientas de
-Inteligencia Artificial. Por cada ejercicio se registra: la IA utilizada, el prompt
-para **entender** el ejercicio y el prompt para **generar un proceso similar** de
-práctica.
-
-> Completa la tabla siguiente con los prompts reales que utilizaste. Se incluye un
-> ejemplo en la primera fila como referencia de formato.
-
-| Bloque / Ejercicio | IA utilizada | Prompt para entender el ejercicio | Prompt para generar un proceso similar |
-|--------------------|--------------|-----------------------------------|----------------------------------------|
-| Bloque 17 — Ej. 1 (PromedioMixin) | *(ejemplo)* Claude | "Explícame qué es un Mixin en Python y cómo crear un `PromedioMixin` que calcule el promedio de una lista de notas." | "Genérame un ejercicio parecido con un Mixin distinto para practicar por mi cuenta, sin darme la solución." |
-| Bloque 0 — Ej. … |  |  |  |
-| Bloque 1 — Ej. … |  |  |  |
-| Bloque 2 — Ej. … |  |  |  |
-| … |  |  |  |
 
 ### Metodología de aprendizaje
 
@@ -195,4 +178,4 @@ propia**, repitiéndolo hasta comprender por completo el proceso original.
 Proyecto desarrollado como parte de la **Guía Práctica Experimental 1** de la
 asignatura de Programación Orientada a Objetos.
 
-*Completa aquí tu nombre, carrera y fecha de entrega.*
+*Isaac Anthony Silva Quiroz | Marco Eduardo Robinson Franco | UNEMI*
